@@ -6,4 +6,5 @@ ToRead list of articles and books
 * [Mindset: The New Psychology of Success](http://www.amazon.com/Mindset-Psychology-Success-Carol-Dweck/dp/0345472322/) by Carol Dweck
 * [Reinventing Organizations](http://www.reinventingorganizations.com/) by Frederic Laloux and Ken Wilber
 * [Thing Explainer: Complicated Stuff in Simple Words](http://www.amazon.com/Thing-Explainer-Complicated-Stuff-Simple/dp/0544668251) by Randall Munroe
-* [The Lean Startup](http://theleanstartup.com/) by by Eric Ries
+* [The Lean Startup](http://theleanstartup.com/) by Eric Ries
+* [What If?: Serious Scientific Answers to Absurd Hypothetical Questions](https://whatif.xkcd.com/book/) by Randall Munroe
