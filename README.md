@@ -1,6 +1,7 @@
 # ToRead
 ToRead list of articles and books
 
+* [Cracking the Coding Interview](http://www.crackingthecodinginterview.com) by Gayle Laakmann McDowell
 * [CSS Secrets: Better Solutions to Everyday Web Design Problems](http://www.amazon.com/CSS-Secrets-Solutions-Everyday-Problems/dp/1449372635/) by Lea Verou 
 * [If Hemingway Wrote JavaScript](http://www.amazon.com/Hemingway-Wrote-JavaScript-Angus-Croll/dp/1593275854/) by Angus Croll
 * [Fully Alive](http://fullyalivebook.com/products/) by Ken Davis
