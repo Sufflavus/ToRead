@@ -6,6 +6,7 @@ ToRead list of articles and books
 * [Eat That Frog!: 21 Great Ways to Stop Procrastinating and Get More Done in Less Time](https://www.amazon.com/Eat-That-Frog-Great-Procrastinating/dp/1576754227/191-2013165-9598705) by Brian Tracy
 * [Fully Alive](http://fullyalivebook.com/products/) by Ken Davis
 * [Get a Coder Job](http://getacoderjob.com/) by Charles Max Wood
+* [Grokking Algorithms](https://www.manning.com/books/grokking-algorithms) by Aditya Y. Bhargava
 * [How Not to Be Wrong: The Power of Mathematical Thinking](http://www.amazon.com/How-Not-Be-Wrong-Mathematical/dp/0143127535/) by Jordan Ellenberg
 * [If Hemingway Wrote JavaScript](http://www.amazon.com/Hemingway-Wrote-JavaScript-Angus-Croll/dp/1593275854/) by Angus Croll
 * [Mindset: The New Psychology of Success](http://www.amazon.com/Mindset-Psychology-Success-Carol-Dweck/dp/0345472322/) by Carol Dweck
