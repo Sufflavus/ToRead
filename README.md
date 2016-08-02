@@ -19,3 +19,4 @@ ToRead list of articles and books
 * [The Lean Startup](http://theleanstartup.com/) by Eric Ries
 * [The Little Schemer](https://mitpress.mit.edu/books/little-schemer) By Daniel P. Friedman and Matthias Felleisen
 * [What If?: Serious Scientific Answers to Absurd Hypothetical Questions](https://whatif.xkcd.com/book/) by Randall Munroe
+* [Your Code as a Crime Scene](https://pragprog.com/book/atcrime/your-code-as-a-crime-scene) by Adam Tornhill
