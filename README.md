@@ -13,6 +13,7 @@ ToRead list of articles and books
 * [Imposter's Handbook](http://rob.conery.io/2016/07/04/imposters-handbook/) by Rob Conery
 * [Let's Learn ES6](https://letslearnes6.com) by Ryan Christiani
 * [Mindset: The New Psychology of Success](http://www.amazon.com/Mindset-Psychology-Success-Carol-Dweck/dp/0345472322/) by Carol Dweck
+* [Peak: Secrets from the New Science of Expertise](http://peakthebook.com/) by Anders Ericsson, Robert Pool
 * [Procrastinate on Purpose: 5 Permissions to Multiply Your Time](http://www.procrastinateonpurpose.com/) by Rory Vaden
 * [Punished by Rewards](http://www.alfiekohn.org/punished-rewards/) by Alfie Kohn
 * [Reinventing Organizations](http://www.reinventingorganizations.com/) by Frederic Laloux and Ken Wilber
