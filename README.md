@@ -1,6 +1,7 @@
 # ToRead
 ToRead list of articles and books
 
+* [Atomic Design](http://atomicdesign.bradfrost.com/) by Brad Frost
 * [Cracking the Coding Interview](http://www.crackingthecodinginterview.com) by Gayle Laakmann McDowell
 * [CSS Secrets: Better Solutions to Everyday Web Design Problems](http://www.amazon.com/CSS-Secrets-Solutions-Everyday-Problems/dp/1449372635/) by Lea Verou 
 * [Designing Data-Intensive Applications](http://dataintensive.net/) by Martin Kleppmann
