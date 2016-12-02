@@ -15,13 +15,18 @@ ToRead list of articles and books
 * [Imposter's Handbook](http://rob.conery.io/2016/07/04/imposters-handbook/) by Rob Conery
 * [Let's Learn ES6](https://letslearnes6.com) by Ryan Christiani
 * [Mindset: The New Psychology of Success](http://www.amazon.com/Mindset-Psychology-Success-Carol-Dweck/dp/0345472322/) by Carol Dweck
+* [Mindwise: How We Understand What Others Think, Believe, Feel, and Want](https://www.amazon.com/dp/0307595919) by Nicholas Epley 
 * [Peak: Secrets from the New Science of Expertise](http://peakthebook.com/) by Anders Ericsson, Robert Pool
 * [Procrastinate on Purpose: 5 Permissions to Multiply Your Time](http://www.procrastinateonpurpose.com/) by Rory Vaden
 * [Punished by Rewards](http://www.alfiekohn.org/punished-rewards/) by Alfie Kohn
 * [Reinventing Organizations](http://www.reinventingorganizations.com/) by Frederic Laloux and Ken Wilber
+* [So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for Work You Love](https://www.amazon.com/dp/1455509124) by Cal Newport
+* [Stumbling on Happiness](https://www.amazon.com/dp/1400077427) by Daniel Gilbert
 * [Thing Explainer: Complicated Stuff in Simple Words](http://www.amazon.com/Thing-Explainer-Complicated-Stuff-Simple/dp/0544668251) by Randall Munroe
 * [Thinking, Fast and Slow](http://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555/) by Daniel Kahneman
 * [The Lean Startup](http://theleanstartup.com/) by Eric Ries
-* [The Little Schemer](https://mitpress.mit.edu/books/little-schemer) By Daniel P. Friedman and Matthias Felleisen
+* [The Little Schemer](https://mitpress.mit.edu/books/little-schemer) by Daniel P. Friedman and Matthias Felleisen
+* [The Subtle Art of Not Giving a Fuck: A Counterintuitive Approach to Living a Good Life](https://www.amazon.com/dp/0062457713) by Mark Manson
+* [The Time Paradox: The New Psychology of Time That Will Change Your Life](https://www.amazon.com/dp/1416541993) by Philip Zimbardo
 * [What If?: Serious Scientific Answers to Absurd Hypothetical Questions](https://whatif.xkcd.com/book/) by Randall Munroe
 * [Your Code as a Crime Scene](https://pragprog.com/book/atcrime/your-code-as-a-crime-scene) by Adam Tornhill
