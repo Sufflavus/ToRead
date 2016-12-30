@@ -9,6 +9,7 @@ ToRead list of articles and books
 * [Fully Alive](http://fullyalivebook.com/products/) by Ken Davis
 * [Get a Coder Job](http://getacoderjob.com/) by Charles Max Wood
 * [Getting Things Done](http://gettingthingsdone.com/) by David Allen
+* [Green Intelligence: Creating Environments That Protect Human Health](https://www.amazon.com/Green-Intelligence-Creating-Environments-Protect/dp/0300167903/) by John Wargo
 * [Grokking Algorithms](https://www.manning.com/books/grokking-algorithms) by Aditya Y. Bhargava
 * [How Not to Be Wrong: The Power of Mathematical Thinking](http://www.amazon.com/How-Not-Be-Wrong-Mathematical/dp/0143127535/) by Jordan Ellenberg
 * [If Hemingway Wrote JavaScript](http://www.amazon.com/Hemingway-Wrote-JavaScript-Angus-Croll/dp/1593275854/) by Angus Croll
