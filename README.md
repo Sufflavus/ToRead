@@ -6,6 +6,7 @@ ToRead list of articles and books
 * [CSS Secrets: Better Solutions to Everyday Web Design Problems](http://www.amazon.com/CSS-Secrets-Solutions-Everyday-Problems/dp/1449372635/) by Lea Verou 
 * [Designing Data-Intensive Applications](http://dataintensive.net/) by Martin Kleppmann
 * [Eat That Frog!: 21 Great Ways to Stop Procrastinating and Get More Done in Less Time](https://www.amazon.com/Eat-That-Frog-Great-Procrastinating/dp/1576754227/191-2013165-9598705) by Brian Tracy
+* [Effective Programming: More Than Writing Code](https://www.hyperink.com/Effective-Programming-More-Than-Writing-Code-b1559) by Jeff Atwood
 * [Fully Alive](http://fullyalivebook.com/products/) by Ken Davis
 * [Get a Coder Job](http://getacoderjob.com/) by Charles Max Wood
 * [Getting Things Done](http://gettingthingsdone.com/) by David Allen
