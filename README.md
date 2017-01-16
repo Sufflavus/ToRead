@@ -15,6 +15,7 @@ ToRead list of articles and books
 * [How Not to Be Wrong: The Power of Mathematical Thinking](http://www.amazon.com/How-Not-Be-Wrong-Mathematical/dp/0143127535/) by Jordan Ellenberg
 * [If Hemingway Wrote JavaScript](http://www.amazon.com/Hemingway-Wrote-JavaScript-Angus-Croll/dp/1593275854/) by Angus Croll
 * [Imposter's Handbook](http://rob.conery.io/2016/07/04/imposters-handbook/) by Rob Conery
+* [Finish Your Damn Side Project](http://briangilham.com/guide) by Brian Gilham
 * [Let's Learn ES6](https://letslearnes6.com) by Ryan Christiani
 * [Mindset: The New Psychology of Success](http://www.amazon.com/Mindset-Psychology-Success-Carol-Dweck/dp/0345472322/) by Carol Dweck
 * [Mindwise: How We Understand What Others Think, Believe, Feel, and Want](https://www.amazon.com/dp/0307595919) by Nicholas Epley 
