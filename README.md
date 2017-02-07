@@ -2,6 +2,7 @@
 ToRead list of articles and books
 
 * [Atomic Design](http://atomicdesign.bradfrost.com/) by Brad Frost
+* [Cascading Style Sheets: Designing for the Web](http://www.informit.com/store/cascading-style-sheets-designing-for-the-web-9780321193124) by Hakon Wium Lie, Bert Bos
 * [Cracking the Coding Interview](http://www.crackingthecodinginterview.com) by Gayle Laakmann McDowell
 * [CSS Secrets: Better Solutions to Everyday Web Design Problems](http://www.amazon.com/CSS-Secrets-Solutions-Everyday-Problems/dp/1449372635/) by Lea Verou 
 * [Designing Data-Intensive Applications](http://dataintensive.net/) by Martin Kleppmann
