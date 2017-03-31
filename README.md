@@ -1,6 +1,7 @@
 # ToRead
 ToRead list of articles and books
 
+* [Algorithms to Live By: The Computer Science of Human Decisions](http://algorithmstoliveby.com/) by Brian Christian, Tom Griffiths
 * [Atomic Design](http://atomicdesign.bradfrost.com/) by Brad Frost
 * [Cascading Style Sheets: Designing for the Web](http://www.informit.com/store/cascading-style-sheets-designing-for-the-web-9780321193124) by Hakon Wium Lie, Bert Bos
 * [Cracking the Coding Interview](http://www.crackingthecodinginterview.com) by Gayle Laakmann McDowell
