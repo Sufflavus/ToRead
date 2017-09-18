@@ -30,6 +30,7 @@ ToRead list of articles and books
 * [Thing Explainer: Complicated Stuff in Simple Words](http://www.amazon.com/Thing-Explainer-Complicated-Stuff-Simple/dp/0544668251) by Randall Munroe
 * [Thinking, Fast and Slow](http://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555/) by Daniel Kahneman
 * [The Art of Thinking Clearly](https://www.amazon.com/Art-Thinking-Clearly-Rolf-Dobelli/dp/0062219693) by Rolf Dobelli
+* [The Checklist Manifesto: How to Get Things Right](https://www.amazon.com/Checklist-Manifesto-How-Things-Right/dp/0312430000) by Atul Gawande
 * [The Lean Startup](http://theleanstartup.com/) by Eric Ries
 * [The Little Schemer](https://mitpress.mit.edu/books/little-schemer) by Daniel P. Friedman and Matthias Felleisen
 * [The Subtle Art of Not Giving a Fuck: A Counterintuitive Approach to Living a Good Life](https://www.amazon.com/dp/0062457713) by Mark Manson
