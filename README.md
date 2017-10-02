@@ -35,5 +35,6 @@ ToRead list of articles and books
 * [The Little Schemer](https://mitpress.mit.edu/books/little-schemer) by Daniel P. Friedman and Matthias Felleisen
 * [The Subtle Art of Not Giving a Fuck: A Counterintuitive Approach to Living a Good Life](https://www.amazon.com/dp/0062457713) by Mark Manson
 * [The Time Paradox: The New Psychology of Time That Will Change Your Life](https://www.amazon.com/dp/1416541993) by Philip Zimbardo
+* [The Truth About Burnout: How Organizations Cause Personal Stress and What to Do About It](https://www.amazon.com/dp/1118692136/) by Christina Maslach, Michael P. Leiter
 * [What If?: Serious Scientific Answers to Absurd Hypothetical Questions](https://whatif.xkcd.com/book/) by Randall Munroe
 * [Your Code as a Crime Scene](https://pragprog.com/book/atcrime/your-code-as-a-crime-scene) by Adam Tornhill
