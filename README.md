@@ -33,6 +33,7 @@ ToRead list of articles and books
 * [The Checklist Manifesto: How to Get Things Right](https://www.amazon.com/Checklist-Manifesto-How-Things-Right/dp/0312430000) by Atul Gawande
 * [The Lean Startup](http://theleanstartup.com/) by Eric Ries
 * [The Little Schemer](https://mitpress.mit.edu/books/little-schemer) by Daniel P. Friedman and Matthias Felleisen
+* [The Power of Habit: Why We Do What We Do in Life and Business](http://charlesduhigg.com/books/the-power-of-habit/) by Charles Duhigg
 * [The Subtle Art of Not Giving a Fuck: A Counterintuitive Approach to Living a Good Life](https://www.amazon.com/dp/0062457713) by Mark Manson
 * [The Time Paradox: The New Psychology of Time That Will Change Your Life](https://www.amazon.com/dp/1416541993) by Philip Zimbardo
 * [The Truth About Burnout: How Organizations Cause Personal Stress and What to Do About It](https://www.amazon.com/dp/1118692136/) by Christina Maslach, Michael P. Leiter
